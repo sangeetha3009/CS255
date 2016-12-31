@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;Jackson2Example&apos;&#x0A;- Original project: &apos;Jackson2Example&apos;&#x0A;- Original element: &apos;com.fasterxml.jackson.core.jar&apos;" description="Delete element" element1="com.fasterxml.jackson.core.jar" elements="0" flags="589830" id="org.eclipse.jdt.ui.delete" resources="1" stamp="1473542402539" subPackages="false" version="1.0"/>
+</session>
